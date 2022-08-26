@@ -1,5 +1,7 @@
-Hi, my name is wlisses, I'm starting in this fantastic
-world of technology, I'm studying at Trybe, I hope
-that in the future I can contribute to the whole Github
-community.
+Hi, my name is wlisses.
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wlis13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlis13&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
