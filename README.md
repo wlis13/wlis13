@@ -7,6 +7,6 @@ Hi, my name is wlisses.
 
  <img align="center" alt="Rafa-Js" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
