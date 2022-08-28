@@ -8,7 +8,7 @@
     <li>age: 30 years old</li>
   <ol/>
   <h2 align = "center"><em>&lt; occupation &gt;</em></h2>
-  <p>Atualmente estudando desenvolvimento web na escola <strong>TRYBE</strong> um curso com um total de quatro         módulos que são:</p>
+  <p>Atualmente estudando desenvolvimento web na escola <strong>TRYBE</strong>, um curso com um total de quatro         módulos que são:</p>
   <ul>
     <li><strong>fundamentos JavaScript</strong></li>
     <li><strong>FrontEnd</strong></li>
