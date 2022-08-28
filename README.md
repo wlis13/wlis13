@@ -1,4 +1,4 @@
-<h1 align= "center">Hi, my name is wlisses.</h1>
+<h1 align= "center"><em>&lt; Hi, my name is wlisses. &gt;</em></h1>
 <div>
   <ol>
     <li>Email: wlissesfernando285@gmail.com</li>
@@ -7,7 +7,7 @@
     <li>phone:(31) 9 9709-8121</li>
     <li>age: 30 years old</li>
   <ol/>
-  <h2 align = "center">occupation</h2>
+  <h2 align = "center"><em>&lt; occupation &gt;</em></h2>
   <p>Atualmente estudando desenvolvimento web na escola <strong>TRYBE</strong> um curso com um total de quatro         módulos que são:</p>
   <ul>
     <li><strong>fundamentos JavaScript</strong></li>
@@ -31,3 +31,4 @@
   
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
+                                     
