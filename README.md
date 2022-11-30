@@ -4,7 +4,7 @@
     <li>Email: wlissesfernando285@gmail.com</li>
     <li>instagram: wlissesfernando285</li>
     <li>address: São José da Lapa-MG</li>
-    <li>phone:(31) 9 9709-8121</li>
+    <li>phone-number:(31) 9 7179-9227</li>
     <li>age: 30 years old</li>
   <ol/>
   <h2 align = "center"><em>&lt; occupation &gt;</em></h2>
