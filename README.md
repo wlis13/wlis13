@@ -16,7 +16,7 @@
   <ul/>
 </div>
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlis13&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=wlis13&show_icons=true&theme=radical)
     
 <h2>Tecnologias que fazem parte do meu estudo</h2>
 
@@ -28,4 +28,4 @@
 <img style="width: 150px" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
 <img style="width: 150px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
                  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlis13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlis13&langs_count=7)](https://github.com/wlis13/github-readme-stats)
