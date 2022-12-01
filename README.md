@@ -1,7 +1,7 @@
 <h1 align= "center"><em>&lt; Olá meu nome é Wlisses ✋ &gt;</em></h1>
 <div>
   <p>Sou de São José da Lapa-MG, nasci em Vespasiano no dia 19 de fevereiro de 1991, tenho 31 anos, e estou em transição de carreira.
-  Sendo que a maior parte da minha experiência profissional é com construção civil e também passei por algumas empresas como auxiliar de produção. O meu interesse em trabalhar com tecnologia vem de muitos anos atrás. Penso que o momento que estamos vivendo é o alge da evolução tecnológica humana, e eu gostaria muito de participar desse momento tão grandioso para todos nós.</p>
+  Sendo que a maior parte da minha experiência profissional é com construção civil e Marmoraria como cerrador de granito, também passei por algumas empresas como auxiliar de produção. O meu interesse em trabalhar com tecnologia vem de muitos anos atrás. Penso que o momento que estamos vivendo é o alge da evolução tecnológica humana, e eu gostaria muito de participar desse momento tão grandioso para todos nós.</p>
   
   [![likedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wlissesfernando285/)
   [![likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wlisses-fernando-6ba6a023a)
