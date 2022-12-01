@@ -16,7 +16,7 @@
   <ul/>
 </div>
     
-![](https://github-readme-stats.vercel.app/api?username=wlis13&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=wlis13&show_icons=true&theme=tokyonight)
     
 <h2>Tecnologias que fazem parte do meu estudo</h2>
 
