@@ -1,7 +1,7 @@
 <h1 align= "center"><em>&lt; Olá meu nome é Wlisses ✋ &gt;</em></h1>
 <div>
   <p>Sou de São José da Lapa-MG, nasci em Vespasiano no dia 19 de fevereiro de 1991, tenho 31 anos, e estou em transição de carreira.
-  Sendo que a maior parte da minha experiência profissional é com construção civil e Marmoraria como cerrador de granito, também passei por algumas empresas como auxiliar de produção. O meu interesse em trabalhar com tecnologia vem de muitos anos atrás. Penso que o momento que estamos vivendo é o alge da evolução tecnológica humana, e eu gostaria muito de participar desse momento tão grandioso para todos nós, Por isso estou me dedicando ao máximo para entender como funcionan os processos de criação de produtos nas tecnologias citadas adiante e nas necessidades que precisam ser supridas através destes produtos.</p>
+  Sendo que a maior parte da minha experiência profissional é com construção civil e Marmoraria como cerrador de granito, também passei por algumas empresas como auxiliar de produção. O meu interesse em trabalhar com tecnologia vem do fascínio que tenho por essa área. Hoje sei onde quero estár, Por isso estou me dedicando ao máximo para entender como funcionan os processos de criação de produtos nas tecnologias citadas adiante e nas necessidades que precisam ser supridas através destes produtos.</p>
   
   [![likedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wlissesfernando285/)
   [![likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wlisses-fernando-6ba6a023a)
@@ -27,5 +27,7 @@
 <img style="width: 150px" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img style="width: 150px" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
 <img style="width: 150px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
                  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlis13&langs_count=7)](https://github.com/wlis13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlis13&langs_count=7)](https://github.com/wlis13/github-readme-stats)<br><br>
+  <a align= "center">wlissesfernando285@gmail.com</a>
