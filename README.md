@@ -1,5 +1,6 @@
 <h1 align= "center"><em>&lt;Olá! Eu sou o Wlisses! 👋 &gt;</em></h1>
 <div>
+  <section>
   <p>Sou desenvolvedor apaixonado por tecnologia, sempre buscando aprender e aprimorar minhas habilidades. Atualmente, trabalho com JavaScript e Python, utilizando frameworks como React.js, Django e Flask. Tenho experiência com bancos de dados MongoDB e MySQL, usando Sequelize e Mongoose para modelagem.</p>
 
   <h2>O que estou estudando no momento 📖</h2>
@@ -16,7 +17,7 @@
    <li>GitHub: github.com/wlis13</li>
    <li>LinkedIn: linkedin.com/in/wlisses-fernando-dev</li>
    <li>E-mail: wlissesfernando285@gmail.com</li>
-   
+  </section>
   
   [![likedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wlissesfernando285/)
   [![likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wlisses-fernando-6ba6a023a)
