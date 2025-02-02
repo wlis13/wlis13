@@ -13,7 +13,7 @@
   <li>Sou fã de Dragon Ball Z e já me aventurei desenhando animes!</li>
 
   <h2>Como me encontrar 💬</h2>
-   <li>GitHub: github.com/wlis13o</li>
+   <li>GitHub: github.com/wlis13</li>
    <li>LinkedIn: linkedin.com/in/wlisses-fernando-dev</li>
    <li>E-mail: wlissesfernando285@gmail.com</li>
    
