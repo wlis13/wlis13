@@ -1,7 +1,21 @@
-<h1 align= "center"><em>&lt; Olá meu nome é Wlisses ✋ &gt;</em></h1>
+<h1 align= "center"><em>&lt;Olá! Eu sou o Wlisses! 👋 &gt;</em></h1>
 <div>
-  <p>Sou de São José da Lapa-MG, nasci em Vespasiano no dia 19 de fevereiro de 1991, tenho 31 anos, e estou em transição de carreira.
-  Sendo que a maior parte da minha experiência profissional é com construção civil e Marmoraria como cerrador de granito, também passei por algumas empresas como auxiliar de produção. O meu interesse em trabalhar com tecnologia vem do fascínio que tenho por essa área. Hoje sei onde quero estár, Por isso estou me dedicando ao máximo para entender como funcionan os processos de criação de produtos nas tecnologias citadas adiante e nas necessidades que precisam ser supridas através destes produtos.</p>
+  <p>Sou desenvolvedor apaixonado por tecnologia, sempre buscando aprender e aprimorar minhas habilidades. Atualmente, trabalho com JavaScript e Python, utilizando frameworks como React.js, Django e Flask. Tenho experiência com bancos de dados MongoDB e MySQL, usando Sequelize e Mongoose para modelagem.</p>
+
+  <h2>O que estou estudando no momento 📖</h2>
+  <li>Aprimorando meus conhecimentos em JavaScript, explorando seus métodos e padrões de desenvolvimento.</li>
+  <li>Aprofundando o uso de React.js e bibliotecas do ecossistema.</li>
+  <li>Explorando Inteligência Artificial com Python.</li>
+
+  <h2>Sobre mim 🌍</h2>
+  <li>Atualmente, moro em Portugal.</li>
+  <li>Gosto de falar sobre tecnologia, astronomia, matemática e inovação.</li>
+  <li>Sou fã de Dragon Ball Z e já me aventurei desenhando animes!</li>
+
+  <h2>Como me encontrar 💬</h2>
+   <li>GitHub: github.com/wlis13o</li>
+   <li>LinkedIn: linkedin.com/in/wlisses-fernando-dev</li>
+   <li>E-mail: wlissesfernando285@gmail.com</li>
   
   [![likedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wlissesfernando285/)
   [![likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wlisses-fernando-6ba6a023a)
